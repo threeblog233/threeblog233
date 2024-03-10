@@ -19,9 +19,31 @@
 ]]></content>
   </entry>
   <entry>
-    <title>blog转战到hexo，折腾一天</title>
+    <title>blog转战到hexo，折腾一天（附带相关总结）</title>
     <url>/blog%E8%BD%AC%E6%88%98%E5%88%B0hexo%EF%BC%8C%E6%8A%98%E8%85%BE%E4%B8%80%E5%A4%A9.html</url>
     <content><![CDATA[<p>​	折腾了一整天，累死我了。不过成功的从z-blog转移到了hexo，心也累了。不过从中也学习到很多新的知识，hexo可真还算是有趣。今天就先到此为止，这个blog我打算用来当作学习笔记，哈哈哈，平穷的我只能靠白嫖github+vercel来过日子了</p>
+<p>学到了许多的hexo命令</p>
+<p>比如：</p>
+<pre><code class="hljs bash">hexo -clean</code></pre>
+
+<p>是用来清除public文件夹以及缓存的</p>
+<pre><code class="hljs bash">hexo -general</code></pre>
+
+<p>可以简写为</p>
+<pre><code class="hljs bash">hexo -g</code></pre>
+
+<p>作用是：生成静态文件</p>
+<pre><code class="hljs bash">hexo -deployer</code></pre>
+
+<p>简写为</p>
+<pre><code class="hljs bash">hexo -d</code></pre>
+
+<p>作用是部署代码到github（gitee，coding）等等代码托管平台</p>
+<p>还有一个就是</p>
+<pre><code class="hljs bash">hexo g -d</code></pre>
+
+<p>就是先执行生成静态文件，再将代码push到仓库里</p>
+<p>今天的总结就先到这里结束，baibai~，晚上还要上有机化学。</p>
 ]]></content>
   </entry>
 </search>
