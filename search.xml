@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/undefined.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span></code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>blog转战到hexo，折腾一天（附带相关总结）</title>
-    <url>/posts/undefined.html</url>
+    <url>/p/46481.html</url>
     <content><![CDATA[<p>​	折腾了一整天，累死我了。不过成功的从z-blog转移到了hexo，心也累了。不过从中也学习到很多新的知识，hexo可真还算是有趣。今天就先到此为止，这个blog我打算用来当作学习笔记，哈哈哈，平穷的我只能靠白嫖github+vercel来过日子了</p>
 <p>学到了许多的hexo命令</p>
 <p>比如：</p>
@@ -48,7 +30,7 @@
   </entry>
   <entry>
     <title>《我们为什么要睡觉》读后感</title>
-    <url>/posts/1ab26ff7.html</url>
+    <url>/p/1ab26ff7.html</url>
     <content><![CDATA[<p>​《我们为什么要睡觉》又名《Why We Sleep》是由马修·沃克所写，一本关于睡眠相关的科普书籍，我在微信读书看的这本书，字数23.7w字，耗时17h57min。</p>
 <p>​这本书讲了许多睡眠不足会引起的后果（如：记忆力下降，易怒，寿命减少，免疫力降低等等）。</p>
 <h3 id="睡眠的分类："><a href="#睡眠的分类：" class="headerlink" title="睡眠的分类："></a>睡眠的分类：</h3><h4 id="快速眼动睡眠"><a href="#快速眼动睡眠" class="headerlink" title="快速眼动睡眠"></a>快速眼动睡眠</h4><p>快速眼动睡眠与创造力，做梦有关；主要发生在睡眠的后段。</p>
@@ -66,6 +48,24 @@
 <p>10.保持卧室幽暗凉爽，并且不要放置任何电子产品。摆脱卧室里任何可能让你分心的东西，比如噪声、明亮的灯光、不舒服的床或过高的室温。如果房间里的温度保持凉爽，你会睡得更好。卧室里的电视、手机或电脑可能会让你分心，无法入睡。拥有舒适的床垫和枕头，可以帮助促进良好的睡眠。失眠的人会经常看钟表，因此请将时钟的表盘转到看不见的方向，这样你就不会在尝试入睡时担心时间了。</p>
 <p>11.适当晒晒太阳。日光是调节日常睡眠模式的关键。尽量每天在自然阳光下晒30分钟以上。如果可能的话，早晨随着阳光醒来，或者使用非常明亮的灯光。睡眠专家建议，如果你有睡眠问题，那么你应该在早晨接受阳光照射1小时，并在睡前调暗室内灯光。</p>
 <p>12.醒着时不要躺在床上。如果你躺在床上20分钟后仍然很清醒，或者开始感到焦虑或担心，那么就起床进行一些轻松的活动，直到感到困倦。不能入睡的焦虑会使你更难入睡。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/p/16107.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span></code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
 </search>
